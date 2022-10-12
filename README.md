@@ -1,2 +1,0 @@
-# CVHRC
-test
